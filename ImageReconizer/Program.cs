@@ -6,7 +6,9 @@ namespace ImageReconizer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worldvvv!");
+            Console.Read();
+            Console.WriteLine("Hello Worldvcdcdv!");
+            Console.Read();
         }
     }
 }
