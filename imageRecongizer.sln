@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageReconizer", "ImageReconizer\ImageReconizer.csproj", "{E2ED9422-2858-40DB-B0A6-DB107D9D1E23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRecognizer", "ImageRecognizer\ImageRecognizer.csproj", "{2C8B3444-CC47-4BBA-8D3E-6033879C1EF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E2ED9422-2858-40DB-B0A6-DB107D9D1E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2ED9422-2858-40DB-B0A6-DB107D9D1E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2ED9422-2858-40DB-B0A6-DB107D9D1E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2ED9422-2858-40DB-B0A6-DB107D9D1E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8B3444-CC47-4BBA-8D3E-6033879C1EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8B3444-CC47-4BBA-8D3E-6033879C1EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8B3444-CC47-4BBA-8D3E-6033879C1EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8B3444-CC47-4BBA-8D3E-6033879C1EF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
